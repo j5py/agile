@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: A brief description of the need and business value
+about: It’s a goal, not a feature, expressed from the perspective of a software user
 title: ''
 labels: ''
 assignees: ''
