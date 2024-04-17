@@ -1,6 +1,6 @@
-# From IBM on Coursera
 
-## Get Started with Cloud Native, DevOps, Agile, and NoSQL
+# Get Started with Cloud Native, DevOps, Agile, and NoSQL
+> From IBM on Coursera
 
 ### Hands-on Lab
 - User Story template
